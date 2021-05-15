@@ -10,7 +10,7 @@
 <#if is_index??>
     <script src="${theme_base!}/source/js/widget_pin.js"></script>
 </#if>
-<#--  <#if is_post??>
+<#if is_post??>
 
     <script src="${theme_base!}/source/lib/toc/toc.min.js"></script>
     <script>
@@ -20,7 +20,7 @@
             showSerial: true
         }).createToc();
     </script>
-</#if>  -->
+</#if>
 
 <script>
     var url = location.href;
