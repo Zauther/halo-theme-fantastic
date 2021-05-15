@@ -13,7 +13,7 @@
 box-shadow: 0 1px 2px 0 rgba(0,0,0,0.1);">
                       
                     </figure>
-                    <#if settings.profile_enable!true>
+                    <#if settings.profile_enable!false>
                         <div class="level-right">
                             <div>
                                 <p class="title is-3" style="text-align: center">
