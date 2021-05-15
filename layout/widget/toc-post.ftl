@@ -32,7 +32,6 @@
                     return result;
                 },
                 createPostDirectory = function (article, directory, isDirNum) {
-                    console.log("aaa",article,directory,isDirNum);
                     var contentArr = [],
                         titleId = [],
                         levelArr, root, level,
