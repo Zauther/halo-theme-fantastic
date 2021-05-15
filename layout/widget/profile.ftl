@@ -9,11 +9,11 @@
  <#--  box-shadow: 0 1px 2px 0 rgba(0,0,0,0.1);"> -->
                       
                       <img class="is-rounded"
-                             src="https://cdn.jsdelivr.net/gh/Zauther/figurebed/imgs/82F65313-4F7D-44C9-850D-C6EB3845214F-9628e8f00eb5478991cc7d8617e7ad89.jpeg" alt="${user.nickname!}" style="padding: 2px;
+                             src="https://cdn.jsdelivr.net/gh/Zauther/figurebed/imgs/20210515124719.jpeg" alt="${user.nickname!}" style="padding: 2px;
 box-shadow: 0 1px 2px 0 rgba(0,0,0,0.1);">
                       
                     </figure>
-                    <#if settings.profile_enable!false>
+                    <#--  <#if settings.profile_enable!false>
                         <div class="level-right">
                             <div>
                                 <p class="title is-3" style="text-align: center">
@@ -24,7 +24,7 @@ box-shadow: 0 1px 2px 0 rgba(0,0,0,0.1);">
                                 </p>
                             </div>
                         </div>
-                    </#if>
+                    </#if>  -->
                     <#--                    <#if settings.profile_location?? && settings.profile_location!=''>-->
                     <#--                        <p class="is-size-6 is-flex is-flex-center has-text-grey">-->
                     <#--                            <i class="fas fa-map-marker-alt has-mr-7"></i>-->
