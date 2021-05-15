@@ -31,7 +31,7 @@
 
         <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/bulma@0.7.5/css/bulma.min.css">
         <link rel="stylesheet" href="//use.fontawesome.com/releases/v5.4.1/css/all.css">
-        <link href="https://fonts.googleapis.com/css?family=Fira+Sans&display=swap" rel="stylesheet">
+        <link href="https://fonts.lug.ustc.edu.cn/css?family=Fira+Sans&display=swap" rel="stylesheet">
         <#--        <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/highlight.js@9.12.0/styles/atom-one-light.css">-->
         <style>
             body > .footer,
@@ -169,4 +169,17 @@
     <#include "search/local.ftl">
     </body>
     </html>
+
+<script data-ad-client="ca-pub-1870807591456075" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-97381903-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-97381903-1');
+</script>
+ 
 </#macro>
