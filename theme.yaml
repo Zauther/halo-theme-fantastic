@@ -1,11 +1,11 @@
-id: imkun_fantastic
+id: zauther_fantastic
 name: Fantastic
 author:
   name: Quinn
-  website: https://github.com/imkundev
+  website: https://github.com/Zauther
 description:
 logo:
-website: https://www.imkun.dev
-repo: https://github.com/halo-dev/halo-theme-imkundev
+website: https://www.cwiki.cn
+repo: https://github.com/Zauther/halo-theme-fantastic
 version: 1.2.0
 require: 1.3.0
