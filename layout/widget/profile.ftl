@@ -4,9 +4,14 @@
             <div class="level-item has-text-centered" style="flex-shrink: 1">
                 <div class="level">
                     <figure class="image is-64x64 has-mb-6 level-left" style="margin: 0 auto">
-                        <img class="is-rounded"
-                             src="${user.avatar!}" alt="${user.nickname!}" style="padding: 2px;
+               <#--           <img class="is-rounded" -->
+               <#--                src="${user.avatar!}" alt="${user.nickname!}" style="padding: 2px; -->
+ <#--  box-shadow: 0 1px 2px 0 rgba(0,0,0,0.1);"> -->
+                      
+                      <img class="is-rounded"
+                             src="https://cdn.jsdelivr.net/gh/Zauther/figurebed/imgs/82F65313-4F7D-44C9-850D-C6EB3845214F-9628e8f00eb5478991cc7d8617e7ad89.jpeg" alt="${user.nickname!}" style="padding: 2px;
 box-shadow: 0 1px 2px 0 rgba(0,0,0,0.1);">
+                      
                     </figure>
                     <#if settings.profile_enable!true>
                         <div class="level-right">
