@@ -185,7 +185,7 @@ post:
 social:
   label: 社交设置
   items:
-    social_github: zauther
+    social_github: 
       name: social_github
       label: Github
       type: text
