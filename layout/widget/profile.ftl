@@ -71,12 +71,12 @@ box-shadow: 0 1px 2px 0 rgba(0,0,0,0.1);">
         <#--               target="_blank">关注我</a>-->
         <#--        </div>-->
         <div class="level is-mobile">
-            <#if settings.social_github?? && settings.social_github!=''>
+            <#--  <#if settings.social_github?? && settings.social_github!=''>  -->
                 <a class="level-item button  is-marginless" target="_blank" title="Github"
-                   href="https://github.com/${settings.social_github}">
+                   href="https://github.com/zauther">
                     <i class="fab fa-github"></i>
                 </a>
-            </#if>
+            <#--  </#if>  -->
             <#if settings.social_qq?? && settings.social_qq!=''>
                 <a class="level-item button  is-marginless" target="_blank" title="QQ"
                    href="tencent://message/?uin=${settings.social_qq}&Site=&Menu=yes">
@@ -113,9 +113,9 @@ box-shadow: 0 1px 2px 0 rgba(0,0,0,0.1);">
                     <i class="fab fa-telegram"></i>
                 </a>
             </#if>
-            <a class="level-item button  is-marginless" target="_blank" title="RSS" href="${context!}/atom.xml">
+            <#--  <a class="level-item button  is-marginless" target="_blank" title="RSS" href="${context!}/atom.xml">
                 <i class="fas fa-rss"></i>
-            </a>
+            </a>  -->
         </div>
     </div>
 </div>
