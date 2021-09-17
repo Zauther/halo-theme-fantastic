@@ -113,9 +113,9 @@ box-shadow: 0 1px 2px 0 rgba(0,0,0,0.1);">
                     <i class="fab fa-telegram"></i>
                 </a>
             </#if>
-            <#--  <a class="level-item button  is-marginless" target="_blank" title="RSS" href="${context!}/atom.xml">
+            <a class="level-item button  is-marginless" target="_blank" title="RSS" href="${context!}atom.xml">
                 <i class="fas fa-rss"></i>
-            </a>  -->
+            </a>
         </div>
     </div>
 </div>
