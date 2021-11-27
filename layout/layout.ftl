@@ -170,16 +170,16 @@
     </body>
     </html>
 
-<#--  <script data-ad-client="ca-pub-1870807591456075" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>   -->
+  <script data-ad-client="ca-pub-1870807591456075" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<#--  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-97381903-1"></script>
+ <script async src="https://www.googletagmanager.com/gtag/js?id=UA-97381903-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
   gtag('config', 'UA-97381903-1');
-</script>  -->
+</script> 
  
 </#macro>
